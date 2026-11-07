@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tempo-public-shell-v1';
+const CACHE_NAME = 'tempo-public-shell-v2';
 const APP_FILES = ['./', './index.html', './manifest.webmanifest', './styles.css', './app.js', './icon.svg'];
 
 self.addEventListener('install', event => {
