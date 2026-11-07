@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Tempo – Habit Tracker & Tagesplan",
+  "short_name": "Tempo",
+  "description": "Ein Habit Tracker und Tagesplan, den du an deinen Alltag anpassen kannst.",
+  "lang": "de-DE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#101116",
+  "background_color": "#101116",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
